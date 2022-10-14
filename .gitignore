@@ -1,3 +1,11 @@
 
 # Visual Studio cache
 .vscode/
+
+# Bin Directory
+.B_DesafiosBasicos/Basico1/bin/
+.B_DesafiosBasicos/Basico2/bin/
+.B_DesafiosBasicos/Basico2/bin/
+.C_DesafiosIntermediarios/Intermediario1/bin/
+.C_DesafiosIntermediarios/Intermediario2/bin/
+.C_DesafiosIntermediarios/Intermediario3/bin/
