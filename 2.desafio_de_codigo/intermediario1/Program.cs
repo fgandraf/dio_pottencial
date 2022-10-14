@@ -1,45 +1,40 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Text.RegularExpressions;
+using System.Linq;
 
 public class Program
 {
     public static void Main(String[] args)
     {
-        int n = int.Parse(Console.ReadLine());
-        
-        int[] num = new int[n];
+        int numeroDeEntradas = int.Parse(Console.ReadLine());
+        int[] entradas = new int[numeroDeEntradas];
     
-// TODO: Crie as outras condições necessárias para a resolução do desafio:
-        for (                              )
+        for (int i = 0; i < numeroDeEntradas; i++)
         {
-            num[i] = int.Parse(Console.ReadLine());
+            entradas[i] = int.Parse(Console.ReadLine());
         }
-        Console.WriteLine(MajorityElement(num));
-        
+        Console.WriteLine(MajorityElement(entradas));
     }
-    public static int MajorityElement(int[] nums)
+        
+
+    public static int MajorityElement(int[] entradas)
     {
-        int major = nums[0];
-        int count = 1;
-        for (                   )
+        Dictionary<int, int> dicionario = new Dictionary<int, int>();
+
+        foreach (int item in entradas)
         {
-            if (                    )
-            {
-                major = nums[i];
-                count   ;
-            }
+            if (dicionario.ContainsKey(item))
+                dicionario[item]++;
             else
-            {
-                if (major == nums[i])
-                {
-                    count++;
-                }
-                else
-                {
-                    count--;
-                }
-            }
+                dicionario.Add(item, 1);
         }
-        return          ;
+
+        var lista = dicionario.ToList();
+        lista.Sort((numero, contagem) => contagem.Value.CompareTo(numero.Value));
+        
+        int major = lista[0].Key;
+
+        return major;
     }
 }
