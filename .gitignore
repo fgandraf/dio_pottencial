@@ -1,19 +1,19 @@
 
-# Visual Studio cache
+# Visual Studio Code cache
 .vscode/
 
 # Bin Directory
-B_DesafiosBasicos/Basico1/bin/
-B_DesafiosBasicos/Basico2/bin/
-B_DesafiosBasicos/Basico3/bin/
-C_DesafiosIntermediarios/Intermediario1/bin/
-C_DesafiosIntermediarios/Intermediario2/bin/
-C_DesafiosIntermediarios/Intermediario3/bin/
+Desafio_de_Codigo/Basico1/bin/
+Desafio_de_Codigo/Basico2/bin/
+Desafio_de_Codigo/Basico3/bin/
+Desafio_de_Codigo/Intermediario1/bin/
+Desafio_de_Codigo/Intermediario2/bin/
+Desafio_de_Codigo/Intermediario3/bin/
 
 # Obj Directory
-B_DesafiosBasicos/Basico1/obj/
-B_DesafiosBasicos/Basico2/obj/
-B_DesafiosBasicos/Basico3/obj/
-C_DesafiosIntermediarios/Intermediario1/obj/
-C_DesafiosIntermediarios/Intermediario2/obj/
-C_DesafiosIntermediarios/Intermediario3/obj/
+Desafio_de_Codigo/Basico1/obj/
+Desafio_de_Codigo/Basico2/obj/
+Desafio_de_Codigo/Basico3/obj/
+Desafio_de_Codigo/Intermediario1/obj/
+Desafio_de_Codigo/Intermediario2/obj/
+Desafio_de_Codigo/Intermediario3/obj/
