@@ -1,4 +1,4 @@
-![Logo.png](Assets\Logo.png)
+![Logo.png](https://github.com/fgandraf/dio-bootcamp-pottencial/blob/main/Assets/Logo.png)
 
 Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
 
@@ -6,7 +6,7 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
 
 # Desafio de Código
 
-* **</> básico**
+- **</> básico**
   
   1 - Subtraindo o produto e a soma de um número inteiro
   
@@ -21,7 +21,7 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
   
   > Dado um inteiro **n**, retorne **true** se **n** tiver exatamente <u>três divisores positivos</u>. Caso contrário, retorne **false**. O inteiro **m** é um divisor de **n,** se existe um inteiro **k** tal que **n = k * m**.
 
-* **</> intermediário**
+- **</> intermediário**
   
   1 - Emento Majoritário
   
@@ -36,7 +36,6 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
   > A corrida de tartarugas é um esporte que cresceu muito nos últimos anos,  fazendo com que vários competidores se dediquem a capturar tartarugas 
   > rápidas, e treina-las para faturar milhões em corridas pelo mundo. Porém a tarefa de capturar tartarugas não é uma tarefa muito fácil, pois quase todos esses répteis são bem lentos. Cada tartaruga é classificada em um nível dependendo de sua velocidade.
 
-# 
 
 # Desafio de Projeto
 
