@@ -28,3 +28,8 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
 - **</> básico**
   
   1 - Criando primeiro repositório GitHub
+
+
+# Exercícios
+
+  1 - Projeto API com Entity Framework
