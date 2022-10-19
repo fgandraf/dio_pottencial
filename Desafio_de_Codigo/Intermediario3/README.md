@@ -28,4 +28,4 @@ Para cada caso de teste, imprima uma única linha indicando o nível de velocida
 | 1 5 2 9 5 5 8 4 4 3           |                  |
 |                               |                  |
 | 10                            | 2                |
-| 19 9 1 4 5 8 6 11 9           |                  |
+| 19 9 1 4 5 8 6 11 9 7         |                  |
