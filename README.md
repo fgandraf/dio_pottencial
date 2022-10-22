@@ -22,7 +22,6 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
   
   3 - A Corrida de Tartarugas
 
-
 # Desafio de Projeto
 
 - **</> básico**
@@ -31,9 +30,12 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
   
   2 - Construindo um sistema para estacionamento em C#
 
+- **</> intermediário**
+  
+  1 - Construindo um sistema de hospedagem de um hotel em C#
 
 # Exercícios
 
   1 - Projeto API com Entity Framework
-  
+
   2 - Projeto Asp.NET com Entity Framework
