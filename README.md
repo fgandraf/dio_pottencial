@@ -26,13 +26,15 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
 
 - **</> básico**
   
-  [1 - Criando primeiro repositório GitHub](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/A_PrimeiroRepositorio)
+  [1 - Criando primeiro repositório GitHub](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/Basico1)
   
-  [2 - Construindo um sistema para estacionamento em C#](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/B_DesafioFundamentos)
+  [2 - Construindo um sistema para estacionamento em C#](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/Basico2)
 
 - **</> intermediário**
   
-  [1 - Construindo um sistema de hospedagem de um hotel em C#](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/C_Intermediario1)
+  [1 - Construindo um sistema de hospedagem de um hotel em C#](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/Intermediario1)
+  
+  [2 - Criando um sistema e abstraindo um celular com POO em C#](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/Intermediario2)
 
 # Exercícios
 
