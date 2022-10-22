@@ -32,7 +32,7 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
 
 - **</> intermediário**
   
-  [1 - Construindo um sistema de hospedagem de um hotel em C#](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/C_Intermediario)
+  [1 - Construindo um sistema de hospedagem de um hotel em C#](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/C_Intermediario1)
 
 # Exercícios
 
