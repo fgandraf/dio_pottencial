@@ -36,6 +36,9 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
   [1 - Construindo um sistema de hospedagem de um hotel em C#](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/Intermediario1)
   
   [2 - Criando um sistema e abstraindo um celular com POO em C#](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/Intermediario2)
+  
+  [3 - Construindo um sistema de agendamento de tarefas com Entity Framework](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/Intermediario3)
+ 
 
 # Exercícios
 
