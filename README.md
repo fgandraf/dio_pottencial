@@ -1,8 +1,9 @@
-![Logo.png](https://github.com/fgandraf/dio-bootcamp-pottencial/blob/main/Assets/Logo.png)
+[![Logo.png](https://github.com/fgandraf/dio-bootcamp-pottencial/blob/main/Assets/Logo.png)](https://web.dio.me/)
 
 Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
 
 ---
+
 
 # Desafio de Código
 
