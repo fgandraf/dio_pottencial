@@ -5,7 +5,7 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
 ---
 
 
-# Desafio de Código
+## Desafio de Código
 
 - **</> básico**
   
@@ -23,7 +23,7 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
   
   [3 - A Corrida de Tartarugas](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Codigo/Intermediario3)
 
-# Desafio de Projeto
+## Desafio de Projeto
 
 - **</> básico**
   
@@ -40,8 +40,12 @@ Repositório com conteúdo desenvolvido durante o bootcamp DIO-Pottencial
   [3 - Construindo um sistema de agendamento de tarefas com Entity Framework](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Desafio_de_Projeto/Desafio-API)
  
 
-# Exercícios
+## Exercícios
 
   - [1 - Projeto API com Entity Framework](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Exercicios/Exercicio_EF)
 
   - [2 - Projeto Asp.NET com Entity Framework](https://github.com/fgandraf/dio-bootcamp-pottencial/tree/main/Exercicios/Exercicio_ASP)
+
+## Teste Técnico Final
+
+  - [Construir uma API REST utilizando .Net Core | GitLab →](https://gitlab.com/fgandraf/tech-test-payment-api)
